@@ -4,7 +4,7 @@ Summary(pl.UTF-8):	Biblioteka obsługująca kontener multimedialny NUT
 Name:		libnut
 Version:	0
 %define	svnver	675
-Release:	0.%{svnver}.1
+Release:	0.%{svnver}.2
 License:	MIT
 Group:		Libraries
 # svn co svn://svn.mplayerhq.hu/nut/src/trunk nut
