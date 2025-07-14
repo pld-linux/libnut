@@ -50,7 +50,7 @@ Statyczna biblioteka NUT.
 
 %prep
 %setup -q -n nut
-%patch0 -p1
+%patch -P0 -p1
 
 %build
 cat > config.mak <<'EOF'
